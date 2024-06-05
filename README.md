@@ -1,1 +1,1 @@
-# boopScripts
+# A [Boop](https://github.com/IvanMathy/Boop) script that converts from Unix Epoch to Javascript [date time string format](https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-date-time-string-format)  (which is ISO8601/RFC3339 compliant)
